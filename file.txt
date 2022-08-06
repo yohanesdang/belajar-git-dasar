@@ -1,1 +1,2 @@
 menambah file1.txt
+menambah baris di file1.txt
