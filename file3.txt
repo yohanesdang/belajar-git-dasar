@@ -1,1 +1,3 @@
 menambah file3.txt commit ke repository
+menambah garis di file3.txt
+baris baru
